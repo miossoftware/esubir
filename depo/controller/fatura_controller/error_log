@@ -1,0 +1,12 @@
+[22-Dec-2023 16:36:07 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE kc.status=1 AND kc.cari_key='2'' at line 7 in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/fatura_controller/sql.php(22): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[22-Dec-2023 16:59:31 Europe/Istanbul] PHP Warning:  Undefined array key "ithalat_tasima_bedeli" in /home/transtek/konteyner.transteklojistik.com/depo/controller/fatura_controller/sql.php on line 52
+[22-Dec-2023 16:59:31 Europe/Istanbul] PHP Warning:  Undefined array key "ithalat_tasima_bedeli" in /home/transtek/konteyner.transteklojistik.com/depo/controller/fatura_controller/sql.php on line 52
+[22-Dec-2023 16:59:45 Europe/Istanbul] PHP Warning:  Undefined array key "ithalat_tasima_bedeli" in /home/transtek/konteyner.transteklojistik.com/depo/controller/fatura_controller/sql.php on line 52
+[22-Dec-2023 16:59:45 Europe/Istanbul] PHP Warning:  Undefined array key "ithalat_tasima_bedeli" in /home/transtek/konteyner.transteklojistik.com/depo/controller/fatura_controller/sql.php on line 52
+[22-Dec-2023 17:01:43 Europe/Istanbul] PHP Warning:  Undefined array key "ithalat_tasima_bedeli" in /home/transtek/konteyner.transteklojistik.com/depo/controller/fatura_controller/sql.php on line 52
+[22-Dec-2023 17:01:43 Europe/Istanbul] PHP Warning:  Undefined array key "ithalat_tasima_bedeli" in /home/transtek/konteyner.transteklojistik.com/depo/controller/fatura_controller/sql.php on line 52

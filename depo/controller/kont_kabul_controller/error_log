@@ -1,0 +1,92 @@
+[14-Nov-2023 13:36:15 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:15 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:15 UTC] PHP Warning:  include(): Failed opening '../../../controller/depo_db.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 16:36:15 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "depo_db" not found in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 8
+[14-Nov-2023 13:36:16 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:16 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:16 UTC] PHP Warning:  include(): Failed opening '../../../controller/depo_db.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 16:36:16 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "depo_db" not found in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 8
+[14-Nov-2023 13:36:17 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:17 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:17 UTC] PHP Warning:  include(): Failed opening '../../../controller/depo_db.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 16:36:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "depo_db" not found in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 8
+[14-Nov-2023 13:36:21 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:21 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:21 UTC] PHP Warning:  include(): Failed opening '../../../controller/depo_db.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 16:36:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "depo_db" not found in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 8
+[14-Nov-2023 13:36:40 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:40 UTC] PHP Warning:  include(../../../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:36:40 UTC] PHP Warning:  include(): Failed opening '../../../controller/depo_db.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 16:36:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "depo_db" not found in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 8
+[14-Nov-2023 13:37:15 UTC] PHP Warning:  include(../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:37:15 UTC] PHP Warning:  include(../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:37:15 UTC] PHP Warning:  include(): Failed opening '../controller/depo_db.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 16:37:15 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "depo_db" not found in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 8
+[14-Nov-2023 13:38:10 UTC] PHP Warning:  include(../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:38:10 UTC] PHP Warning:  include(../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:38:10 UTC] PHP Warning:  include(): Failed opening '../controller/depo_db.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 16:38:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "depo_db" not found in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 8
+[14-Nov-2023 13:38:23 UTC] PHP Warning:  include(../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:38:23 UTC] PHP Warning:  include(../controller/depo_db.php): Failed to open stream: No such file or directory in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 13:38:23 UTC] PHP Warning:  include(): Failed opening '../controller/depo_db.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 3
+[14-Nov-2023 16:38:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Class "depo_db" not found in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 8
+[14-Nov-2023 16:38:48 Europe/Istanbul] PHP Warning:  Undefined array key "islem" in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 11
+[14-Nov-2023 16:40:38 Europe/Istanbul] PHP Warning:  Undefined array key "islem" in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 11
+[14-Nov-2023 16:40:38 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:16
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php(16): array_merge()
+#1 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 16
+[14-Nov-2023 16:40:53 Europe/Istanbul] PHP Warning:  Undefined array key "islem" in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 11
+[14-Nov-2023 16:40:53 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:16
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php(16): array_merge()
+#1 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 16
+[14-Nov-2023 16:44:45 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: array_merge(): Argument #1 must be of type array, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php:15
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php(15): array_merge()
+#1 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php on line 15
+[29-Dec-2023 11:42:25 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/depo_db.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/depo_db.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php(32): depo_db::depo_all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/depo_db.php on line 119
+[29-Dec-2023 11:42:26 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/depo_db.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/depo_db.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php(32): depo_db::depo_all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/depo_db.php on line 119
+[01-Jan-2024 15:59:35 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/depo_db.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/depo_db.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/kont_kabul_controller/sql.php(32): depo_db::depo_all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/depo_db.php on line 119

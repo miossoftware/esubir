@@ -1,0 +1,144 @@
+[05-Feb-2024 13:22:51 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'son_alinan_saat' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[05-Feb-2024 13:24:51 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'yakit_tuketim' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[05-Feb-2024 13:24:58 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'yakit_tuketim' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[05-Feb-2024 13:25:34 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'litre_fiyati' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[05-Feb-2024 13:25:39 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'litre_fiyati' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[05-Feb-2024 13:27:40 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'surucu_id' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[05-Feb-2024 13:29:25 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'yakit_tipi' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[05-Feb-2024 13:57:02 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'on fk.id=yakit_alim.forklift_id WHERE fk.status=1) as forklift_adi,
+       (sel' at line 3 in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(34): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[05-Feb-2024 13:57:20 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'on fk.id=yakit_alim.forklift_id WHERE fk.status=1) as forklift_adi,
+       (sel' at line 3 in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(34): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[05-Feb-2024 15:06:19 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'status' in where clause is ambiguous in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(38): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[05-Feb-2024 15:10:09 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'status' in where clause is ambiguous in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(38): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[05-Feb-2024 15:11:27 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'status' in where clause is ambiguous in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php(38): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[05-Feb-2024 15:11:38 Europe/Istanbul] PHP Warning:  Undefined array key "tutar" in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 64
+[05-Feb-2024 15:11:59 Europe/Istanbul] PHP Warning:  Undefined array key "tutar" in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 64
+[05-Feb-2024 15:15:16 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 41
+[05-Feb-2024 15:15:58 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 66
+[05-Feb-2024 15:16:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 66
+[05-Feb-2024 15:19:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 15:19:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 15:20:00 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 15:20:10 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 15:30:32 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 15:30:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 15:30:55 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 44
+[05-Feb-2024 15:31:11 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 15:31:15 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 44
+[05-Feb-2024 15:31:29 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 15:33:20 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:26:52 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:34:05 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 126
+[05-Feb-2024 16:35:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:35:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:39:24 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:39:24 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:39:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:39:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:39:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:41:29 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:41:29 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:41:34 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:41:55 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:41:55 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:44:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:44:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:44:41 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:44:57 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:44:57 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 16:45:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 127
+[05-Feb-2024 17:00:36 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 127
+[05-Feb-2024 17:00:36 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 128
+[05-Feb-2024 17:01:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 128
+[05-Feb-2024 17:01:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 129
+[05-Feb-2024 17:02:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 129
+[05-Feb-2024 17:02:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:03:01 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:04:51 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:05:00 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:05:33 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:05:51 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:06:05 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:08:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:08:27 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:08:35 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:10:13 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:10:28 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 17:10:28 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 17:10:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:10:33 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:10:36 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 17:10:36 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 17:10:38 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:10:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:10:59 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 17:10:59 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 17:11:03 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:11:05 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 130
+[05-Feb-2024 17:11:07 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[05-Feb-2024 17:11:07 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[09-Feb-2024 10:21:45 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[09-Feb-2024 10:21:45 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[09-Feb-2024 10:21:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72
+[09-Feb-2024 10:21:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/yakit_controller/sql.php on line 72

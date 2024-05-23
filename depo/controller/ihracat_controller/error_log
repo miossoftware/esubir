@@ -1,0 +1,265 @@
+[19-Dec-2023 12:17:13 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 559
+[19-Dec-2023 12:17:13 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hizmet_turu' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(640): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:17:19 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 559
+[19-Dec-2023 12:17:19 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(576): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:17:46 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 559
+[19-Dec-2023 12:17:46 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(576): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:19:37 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 559
+[19-Dec-2023 12:19:37 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(576): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:19:49 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 559
+[19-Dec-2023 12:19:49 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(576): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:19:58 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 559
+[19-Dec-2023 12:19:58 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(576): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:20:50 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 559
+[19-Dec-2023 12:20:50 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(576): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:21:24 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(576): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:23:06 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 559
+[19-Dec-2023 12:23:06 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(576): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:23:18 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(576): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:27:20 Europe/Istanbul] PHP Warning:  Undefined array key "gonderilecek_islem_arr" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 626
+[19-Dec-2023 12:27:20 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, null given in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 626
+[19-Dec-2023 12:27:20 Europe/Istanbul] PHP Warning:  Undefined variable $is_emri_urunu_olustur in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 642
+[19-Dec-2023 12:28:54 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hizmet_turu' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(640): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 12:29:40 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hizmet_turu' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(640): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 14:23:26 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 976
+[19-Dec-2023 14:23:26 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 977
+[19-Dec-2023 14:23:26 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipi' cannot be null in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(985): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 14:38:49 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:49 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:38:50 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:50 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:38:53 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:53 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:38:54 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:54 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:38:54 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:54 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:38:55 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:55 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:38:55 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:55 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:38:56 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:56 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:38:56 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:56 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:38:56 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 435
+[19-Dec-2023 14:38:56 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[19-Dec-2023 14:42:13 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:42:14 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:42:14 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:42:14 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:42:34 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:43:01 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:47:46 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:48:15 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 984
+[19-Dec-2023 14:48:15 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipi' cannot be null in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(993): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 14:48:16 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 984
+[19-Dec-2023 14:48:16 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipi' cannot be null in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(993): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 14:48:16 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 984
+[19-Dec-2023 14:48:16 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipi' cannot be null in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(993): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 14:48:17 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 984
+[19-Dec-2023 14:48:17 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipi' cannot be null in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(993): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 14:48:18 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 984
+[19-Dec-2023 14:48:18 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipi' cannot be null in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(993): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 14:48:18 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 984
+[19-Dec-2023 14:48:18 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipi' cannot be null in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(993): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 14:50:10 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 984
+[19-Dec-2023 14:50:10 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'tipi' cannot be null in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(993): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[19-Dec-2023 14:51:11 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:54:23 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:55:11 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 14:56:41 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[19-Dec-2023 15:31:34 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 436
+[21-Dec-2023 17:54:34 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 437
+[21-Dec-2023 17:54:34 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 438
+[21-Dec-2023 17:54:37 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 438
+[21-Dec-2023 18:47:14 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 438
+[21-Dec-2023 18:52:50 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 438
+[21-Dec-2023 18:52:58 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 438
+[22-Dec-2023 11:34:03 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 438
+[22-Dec-2023 14:38:59 Europe/Istanbul] PHP Warning:  Undefined variable $siparis_id in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 1370
+[22-Dec-2023 14:38:59 Europe/Istanbul] PHP Warning:  Undefined variable $siparis_id in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 1370
+[22-Dec-2023 14:39:13 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 1359
+[22-Dec-2023 14:39:13 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 1359
+[28-Dec-2023 21:24:01 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1100): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[28-Dec-2023 22:04:42 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1100): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[28-Dec-2023 22:04:56 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.ihracat_siparis' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1287): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[28-Dec-2023 22:05:02 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.ihracat_siparis' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(163): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[28-Dec-2023 22:05:23 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.ihracat_siparis' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1287): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[28-Dec-2023 22:06:41 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1100): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[28-Dec-2023 22:06:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.ihracat_siparis' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1287): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[28-Dec-2023 23:01:21 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1100): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[29-Dec-2023 11:42:19 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1100): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[01-Jan-2024 14:00:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1100): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[01-Jan-2024 14:00:55 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 449
+[01-Jan-2024 14:00:55 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 450
+[01-Jan-2024 14:00:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.ihracat_siparis' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(499): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[01-Jan-2024 14:00:57 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 449
+[01-Jan-2024 14:00:57 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php on line 450
+[01-Jan-2024 14:00:57 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.ihracat_siparis' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(499): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[01-Jan-2024 14:44:23 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.konteyner_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/ihracat_controller/sql.php(1100): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119

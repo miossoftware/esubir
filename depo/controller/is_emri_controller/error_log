@@ -1,0 +1,107 @@
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 84
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 85
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "demoraj_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 88
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "demoraj_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 89
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "ardiyesiz_giris_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 92
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "ardiyesiz_giris_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 93
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "cut_of_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 96
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "cut_of_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 97
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "cari_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 99
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "hizmet_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 101
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "miktar" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 103
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "birim_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 104
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 107
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 126
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 128
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "konteyner_tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 129
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "konteyner_sayisi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 130
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 131
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 133
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 135
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "beyanname_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 136
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "epro_ref" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 139
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 141
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "acente" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 142
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "kont_alim_yeri" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 145
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "kont_teslim_yeri" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 146
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 84
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 85
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "demoraj_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 88
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "demoraj_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 89
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "ardiyesiz_giris_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 92
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "ardiyesiz_giris_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 93
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "cut_of_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 96
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "cut_of_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 97
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "cari_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 99
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "hizmet_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 101
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "miktar" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 103
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "birim_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 104
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 107
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 126
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 128
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "konteyner_tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 129
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "konteyner_sayisi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 130
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 131
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 133
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 135
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "beyanname_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 136
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "epro_ref" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 139
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 141
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "acente" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 142
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "kont_alim_yeri" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 145
+[28-Dec-2023 21:13:46 Europe/Istanbul] PHP Warning:  Undefined array key "kont_teslim_yeri" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 146
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 84
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 85
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "demoraj_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 88
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "demoraj_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 89
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "ardiyesiz_giris_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 92
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "ardiyesiz_giris_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 93
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "cut_of_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 96
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "cut_of_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 97
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "cari_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 99
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "hizmet_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 101
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "miktar" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 103
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "birim_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 104
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 107
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 126
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 128
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "konteyner_tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 129
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "konteyner_sayisi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 130
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 131
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 133
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 135
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "beyanname_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 136
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "epro_ref" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 139
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 141
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "acente" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 142
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "kont_alim_yeri" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 145
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "kont_teslim_yeri" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 146
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 84
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "siparis_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 85
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "demoraj_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 88
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "demoraj_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 89
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "ardiyesiz_giris_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 92
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "ardiyesiz_giris_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 93
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "cut_of_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 96
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "cut_of_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 97
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "cari_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 99
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "hizmet_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 101
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "miktar" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 103
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "birim_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 104
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 107
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 126
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 128
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "konteyner_tipi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 129
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "konteyner_sayisi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 130
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 131
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 133
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 135
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "beyanname_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 136
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "epro_ref" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 139
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "referans_no" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 141
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "acente" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 142
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "kont_alim_yeri" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 145
+[28-Dec-2023 21:13:53 Europe/Istanbul] PHP Warning:  Undefined array key "kont_teslim_yeri" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 146
+[01-Jan-2024 16:10:12 Europe/Istanbul] PHP Warning:  Undefined array key "urun_arr" in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 64
+[01-Jan-2024 16:10:12 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, null given in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 71
+[01-Jan-2024 16:10:12 Europe/Istanbul] PHP Warning:  Undefined variable $ekle in /home/transtek/konteyner.transteklojistik.com/depo/controller/is_emri_controller/sql.php on line 79

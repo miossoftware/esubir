@@ -1,0 +1,60 @@
+[28-Dec-2023 21:24:05 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.depo_arac_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(135): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[29-Dec-2023 09:39:15 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.mal_cinsleri' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(103): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[29-Dec-2023 11:42:15 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.mal_cinsleri' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(103): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[02-Jan-2024 14:33:48 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.depo_arac_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(175): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[02-Jan-2024 14:33:52 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.depo_arac_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(135): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[02-Jan-2024 15:02:33 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.depo_arac_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(175): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[02-Jan-2024 20:21:42 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.depo_arac_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(175): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[02-Jan-2024 21:05:31 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.depo_arac_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(135): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[04-Jan-2024 07:33:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.depo_arac_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(135): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[09-Jan-2024 19:49:07 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.depo_arac_tanim' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/tanim_controller/sql.php(135): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119

@@ -1,0 +1,649 @@
+[24-Dec-2023 08:19:31 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.satis_default' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[24-Dec-2023 08:19:33 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.satis_default' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[25-Dec-2023 10:54:23 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.satis_default' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:26
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(26): PDOStatement->execute()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php(19): DBD::insert()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 26
+[28-Dec-2023 21:14:10 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'iem.cari_id' in 'field list' in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php(32): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[28-Dec-2023 21:14:11 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'transtek_depo_yonetim.satis_default' doesn't exist in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php:119
+Stack trace:
+#0 /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php(119): PDO->query()
+#1 /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php(715): DBD::all_data()
+#2 {main}
+  thrown in /home/transtek/konteyner.transteklojistik.com/depo/controller/DB.php on line 119
+[28-Dec-2023 23:21:17 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[28-Dec-2023 23:21:17 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[28-Dec-2023 23:21:17 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[28-Dec-2023 23:21:17 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[28-Dec-2023 23:21:17 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[28-Dec-2023 23:21:20 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[28-Dec-2023 23:21:20 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[28-Dec-2023 23:21:20 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[28-Dec-2023 23:21:20 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[28-Dec-2023 23:21:20 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[28-Dec-2023 23:52:34 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[28-Dec-2023 23:52:34 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[28-Dec-2023 23:52:34 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[28-Dec-2023 23:52:34 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[28-Dec-2023 23:52:34 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[28-Dec-2023 23:52:56 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 332
+[28-Dec-2023 23:52:56 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 409
+[28-Dec-2023 23:52:56 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 332
+[28-Dec-2023 23:52:56 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 356
+[28-Dec-2023 23:52:56 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 332
+[28-Dec-2023 23:52:56 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 356
+[28-Dec-2023 23:53:22 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[28-Dec-2023 23:53:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[28-Dec-2023 23:53:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[28-Dec-2023 23:53:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[28-Dec-2023 23:53:22 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[28-Dec-2023 23:53:31 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[28-Dec-2023 23:53:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[28-Dec-2023 23:53:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[28-Dec-2023 23:53:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[28-Dec-2023 23:53:31 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[28-Dec-2023 23:53:50 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[28-Dec-2023 23:53:50 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[28-Dec-2023 23:53:50 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[28-Dec-2023 23:53:50 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[28-Dec-2023 23:53:50 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[29-Dec-2023 09:02:02 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[29-Dec-2023 09:02:02 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[29-Dec-2023 09:02:02 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[29-Dec-2023 09:02:02 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[29-Dec-2023 09:02:02 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[29-Dec-2023 09:02:08 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[29-Dec-2023 09:02:08 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[29-Dec-2023 09:02:08 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[29-Dec-2023 09:02:08 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[29-Dec-2023 09:02:08 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[29-Dec-2023 09:02:21 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[29-Dec-2023 09:02:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[29-Dec-2023 09:02:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[29-Dec-2023 09:02:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[29-Dec-2023 09:02:21 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[29-Dec-2023 09:02:45 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[29-Dec-2023 09:02:45 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[29-Dec-2023 09:02:45 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[29-Dec-2023 09:02:45 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[29-Dec-2023 09:02:45 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[29-Dec-2023 09:02:49 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[29-Dec-2023 09:02:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[29-Dec-2023 09:02:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[29-Dec-2023 09:02:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[29-Dec-2023 09:02:49 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[29-Dec-2023 09:39:48 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[29-Dec-2023 09:39:48 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[29-Dec-2023 09:39:48 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[29-Dec-2023 09:39:48 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[29-Dec-2023 09:39:48 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[29-Dec-2023 09:39:53 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 332
+[29-Dec-2023 09:39:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 409
+[29-Dec-2023 09:39:53 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 332
+[29-Dec-2023 09:39:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 356
+[29-Dec-2023 09:39:53 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 332
+[29-Dec-2023 09:39:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 356
+[29-Dec-2023 09:40:17 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[29-Dec-2023 09:40:17 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[29-Dec-2023 09:40:17 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[29-Dec-2023 09:40:17 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[29-Dec-2023 09:40:17 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[29-Dec-2023 09:40:30 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[29-Dec-2023 09:40:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[29-Dec-2023 09:40:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[29-Dec-2023 09:40:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[29-Dec-2023 09:40:30 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[29-Dec-2023 09:40:44 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 678
+[29-Dec-2023 09:40:44 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 687
+[29-Dec-2023 09:40:44 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 688
+[29-Dec-2023 09:40:44 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 689
+[29-Dec-2023 09:40:44 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 10:49:57 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 10:49:57 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 10:49:57 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 10:49:57 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 10:49:57 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 10:50:00 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 10:50:00 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 10:50:00 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 10:50:00 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 10:50:00 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 10:52:21 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 10:52:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 10:52:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 10:52:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 10:52:21 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 10:52:25 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 10:52:25 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 10:52:25 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 10:52:25 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 10:52:25 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 10:54:27 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 10:54:27 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 10:54:27 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 10:54:27 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 10:54:27 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 10:54:30 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 10:54:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 10:54:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 10:54:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 10:54:30 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 11:00:26 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 11:00:26 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 11:00:26 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 11:00:26 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 11:00:26 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 11:00:34 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 11:00:34 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 11:00:34 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 11:00:34 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 11:00:34 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 11:00:37 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 11:00:37 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 11:00:37 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 11:00:37 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 11:00:37 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 11:01:49 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 11:01:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 11:01:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 11:01:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 11:01:49 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 11:01:52 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 11:01:52 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 11:01:52 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 11:01:52 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 11:01:52 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 11:03:48 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 11:03:48 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 11:03:48 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 11:03:48 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 11:03:48 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 11:03:55 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 11:03:55 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 11:03:55 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 11:03:55 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 11:03:55 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 11:03:58 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 11:03:58 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 11:03:58 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 11:03:58 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 11:03:58 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 14:55:25 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 14:55:25 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 14:55:25 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 14:55:25 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 14:55:25 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 14:57:36 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 14:57:36 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 14:57:36 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 14:57:36 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 14:57:36 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 14:58:06 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 704
+[01-Jan-2024 14:58:06 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 713
+[01-Jan-2024 14:58:06 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 714
+[01-Jan-2024 14:58:06 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 715
+[01-Jan-2024 14:58:06 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:01:52 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:01:52 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:01:52 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:01:52 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:01:52 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:02:40 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:02:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:02:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:02:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:02:40 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:08:22 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[01-Jan-2024 15:08:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 461
+[01-Jan-2024 15:08:22 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[01-Jan-2024 15:08:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[01-Jan-2024 15:08:22 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[01-Jan-2024 15:08:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[01-Jan-2024 15:08:22 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[01-Jan-2024 15:08:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[01-Jan-2024 15:18:38 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:18:38 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:18:38 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:18:38 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:18:38 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:18:42 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:18:42 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:18:42 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:18:42 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:18:42 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:19:08 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:19:08 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:19:08 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:19:08 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:19:08 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:19:13 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[01-Jan-2024 15:19:13 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 461
+[01-Jan-2024 15:19:13 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[01-Jan-2024 15:19:13 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[01-Jan-2024 15:19:23 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 794
+[01-Jan-2024 15:21:26 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:21:26 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:21:26 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:21:26 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:21:26 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:22:11 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:22:11 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:22:11 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:22:11 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:22:11 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:22:21 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:22:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:22:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:22:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:22:21 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:23:44 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:23:44 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:23:44 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:23:44 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:23:44 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:25:49 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:25:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:25:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:25:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:25:49 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[01-Jan-2024 15:26:02 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[01-Jan-2024 15:26:02 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 461
+[01-Jan-2024 15:30:21 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 848
+[01-Jan-2024 15:59:31 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[01-Jan-2024 15:59:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[01-Jan-2024 15:59:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[01-Jan-2024 15:59:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[01-Jan-2024 15:59:31 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[02-Jan-2024 00:14:17 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 848
+[02-Jan-2024 10:35:54 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[02-Jan-2024 10:35:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[02-Jan-2024 10:35:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[02-Jan-2024 10:35:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[02-Jan-2024 10:35:54 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[02-Jan-2024 10:35:58 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 10:35:58 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 461
+[02-Jan-2024 10:35:58 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 10:35:58 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 10:35:58 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 10:35:58 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:47:07 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[02-Jan-2024 13:47:07 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[02-Jan-2024 13:47:07 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[02-Jan-2024 13:47:07 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[02-Jan-2024 13:47:07 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[02-Jan-2024 13:47:16 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:47:16 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 461
+[02-Jan-2024 13:47:16 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:47:16 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:47:16 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:47:16 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:48:54 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[02-Jan-2024 13:48:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[02-Jan-2024 13:48:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[02-Jan-2024 13:48:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[02-Jan-2024 13:48:54 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[02-Jan-2024 13:49:06 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:49:06 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 461
+[02-Jan-2024 13:49:06 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:49:06 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:49:06 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:49:06 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:51:02 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[02-Jan-2024 13:51:02 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[02-Jan-2024 13:51:02 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[02-Jan-2024 13:51:02 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[02-Jan-2024 13:51:02 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[02-Jan-2024 13:51:16 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:51:16 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 461
+[02-Jan-2024 13:51:16 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:51:16 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:51:16 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:51:16 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:53:40 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[02-Jan-2024 13:53:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[02-Jan-2024 13:53:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[02-Jan-2024 13:53:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[02-Jan-2024 13:53:40 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[02-Jan-2024 13:53:59 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[02-Jan-2024 13:53:59 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[02-Jan-2024 13:53:59 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[02-Jan-2024 13:53:59 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[02-Jan-2024 13:53:59 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[02-Jan-2024 13:54:01 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:54:01 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 461
+[02-Jan-2024 13:54:01 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:54:01 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:54:01 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:54:01 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:56:19 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 730
+[02-Jan-2024 13:56:19 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 739
+[02-Jan-2024 13:56:19 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 740
+[02-Jan-2024 13:56:19 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 741
+[02-Jan-2024 13:56:19 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 756
+[02-Jan-2024 13:56:43 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:56:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 461
+[02-Jan-2024 13:56:43 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:56:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 13:56:43 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 384
+[02-Jan-2024 13:56:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 408
+[02-Jan-2024 14:02:04 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 848
+[02-Jan-2024 15:13:27 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 848
+[02-Jan-2024 18:11:58 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 848
+[02-Jan-2024 18:16:37 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 848
+[02-Jan-2024 18:17:02 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 848
+[02-Jan-2024 18:57:40 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 848
+[04-Jan-2024 09:26:43 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 09:26:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 09:26:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 09:26:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 09:26:43 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 09:26:53 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 09:26:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 09:26:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 09:26:53 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 09:26:53 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 09:52:18 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 09:52:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 09:52:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 09:52:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 09:52:18 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 498
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 09:52:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 11:23:21 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 11:23:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 11:23:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 11:23:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 11:23:21 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 11:23:31 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 11:23:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 11:23:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 11:23:31 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 11:23:32 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 11:23:34 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 11:23:34 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 498
+[04-Jan-2024 12:34:03 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 12:34:03 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 12:34:03 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 12:34:03 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 12:34:03 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 12:34:39 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 12:34:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 12:34:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 12:34:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 12:34:39 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 498
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:34:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:36:01 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 12:36:01 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 12:36:01 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 12:36:01 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 12:36:01 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 498
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:36:18 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:37:22 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 12:37:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 12:37:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 12:37:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 12:37:22 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 498
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:37:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 445
+[04-Jan-2024 12:39:23 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 12:39:23 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 12:39:23 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 12:39:23 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 12:39:23 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 12:39:48 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:39:48 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 498
+[04-Jan-2024 12:41:21 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 12:41:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 12:41:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 12:41:21 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 12:41:22 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 12:41:38 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:41:38 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 498
+[04-Jan-2024 12:42:35 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[04-Jan-2024 12:42:35 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[04-Jan-2024 12:42:35 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[04-Jan-2024 12:42:35 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[04-Jan-2024 12:42:35 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[04-Jan-2024 12:42:50 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 421
+[04-Jan-2024 12:42:50 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 498
+[04-Jan-2024 12:56:52 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 885
+[04-Jan-2024 15:41:02 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:41:11 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:41:15 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:41:21 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:41:35 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:41:42 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:49:03 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:49:24 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:49:43 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:50:07 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:50:30 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:50:56 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:51:17 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:51:35 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:52:22 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:52:49 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 15:54:29 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[04-Jan-2024 16:34:34 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 15:59:02 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 15:59:05 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 15:59:18 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 15:59:19 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:00:09 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:00:15 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:00:16 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:00:17 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:00:39 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:00:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:01:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 667
+[05-Jan-2024 16:03:53 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:04:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 968
+[05-Jan-2024 16:04:54 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:04:56 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:04:59 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:05:02 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:05:03 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:06:12 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:06:13 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:06:14 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:06:33 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:06:36 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:06:38 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:06:58 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:06:59 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:07:20 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:07:22 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:07:36 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:07:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:07:53 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:07:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 610
+[05-Jan-2024 16:35:05 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 968
+[05-Jan-2024 16:35:05 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:35:11 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:35:14 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:35:23 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[05-Jan-2024 16:35:49 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 894
+[16-Jan-2024 14:27:54 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[16-Jan-2024 14:27:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[16-Jan-2024 14:27:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[16-Jan-2024 14:27:54 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[16-Jan-2024 14:27:54 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[16-Jan-2024 14:30:39 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 767
+[16-Jan-2024 14:30:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 776
+[16-Jan-2024 14:30:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 777
+[16-Jan-2024 14:30:39 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 778
+[16-Jan-2024 14:30:39 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 793
+[30-Jan-2024 19:29:41 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 199
+[30-Jan-2024 19:29:41 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 243
+[30-Jan-2024 19:29:57 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 199
+[30-Jan-2024 19:29:57 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 243
+[31-Jan-2024 10:34:23 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 199
+[31-Jan-2024 10:34:23 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 243
+[31-Jan-2024 10:34:33 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 199
+[31-Jan-2024 10:34:33 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 243
+[31-Jan-2024 16:42:52 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 199
+[31-Jan-2024 16:42:52 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 243
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1240
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1249
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1250
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1251
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1252
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1253
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1254
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1255
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1298
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 534
+[31-Jan-2024 16:43:04 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 579
+[31-Jan-2024 16:43:08 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 780
+[31-Jan-2024 16:43:08 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 913
+[31-Jan-2024 16:43:08 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 780
+[31-Jan-2024 16:43:08 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 801
+[31-Jan-2024 16:43:19 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 534
+[31-Jan-2024 16:43:19 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 579
+[31-Jan-2024 16:43:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1249
+[31-Jan-2024 16:43:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1250
+[31-Jan-2024 16:43:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1251
+[31-Jan-2024 16:43:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1252
+[31-Jan-2024 16:43:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1253
+[31-Jan-2024 16:43:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1254
+[31-Jan-2024 16:43:30 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1255
+[31-Jan-2024 16:43:43 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1240
+[31-Jan-2024 16:43:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1249
+[31-Jan-2024 16:43:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1250
+[31-Jan-2024 16:43:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1251
+[31-Jan-2024 16:43:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1252
+[31-Jan-2024 16:43:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1253
+[31-Jan-2024 16:43:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1254
+[31-Jan-2024 16:43:43 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1255
+[31-Jan-2024 16:43:43 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1298
+[31-Jan-2024 16:43:44 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 534
+[31-Jan-2024 16:43:44 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 579
+[31-Jan-2024 16:43:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 780
+[31-Jan-2024 16:43:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 913
+[31-Jan-2024 16:43:47 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 780
+[31-Jan-2024 16:43:47 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 801
+[31-Jan-2024 16:46:15 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1240
+[31-Jan-2024 16:46:15 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1249
+[31-Jan-2024 16:46:15 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1250
+[31-Jan-2024 16:46:15 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1251
+[31-Jan-2024 16:46:15 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1252
+[31-Jan-2024 16:46:15 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1253
+[31-Jan-2024 16:46:15 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1254
+[31-Jan-2024 16:46:15 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1255
+[31-Jan-2024 16:46:15 Europe/Istanbul] PHP Warning:  Undefined array key "id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1298
+[31-Jan-2024 16:46:16 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 534
+[31-Jan-2024 16:46:16 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 579
+[31-Jan-2024 16:46:25 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 780
+[31-Jan-2024 16:46:25 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 913
+[31-Jan-2024 16:46:25 Europe/Istanbul] PHP Warning:  Undefined array key "plaka_id" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 780
+[31-Jan-2024 16:46:25 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 801
+[31-Jan-2024 16:46:35 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1083
+[31-Jan-2024 16:46:41 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1140
+[31-Jan-2024 17:14:28 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 199
+[31-Jan-2024 17:14:28 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 243
+[01-Feb-2024 18:09:40 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 199
+[01-Feb-2024 18:09:40 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 243
+[02-Feb-2024 14:19:49 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type bool in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1473
+[02-Feb-2024 14:19:49 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1399
+[02-Feb-2024 14:20:26 Europe/Istanbul] PHP Warning:  Undefined array key "irsaliye_tarihi" in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 1399
+[03-Feb-2024 12:32:47 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 199
+[03-Feb-2024 12:32:47 Europe/Istanbul] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/transtek/konteyner.transteklojistik.com/depo/controller/satis_controller/sql.php on line 243
